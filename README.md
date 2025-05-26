@@ -8,4 +8,4 @@ A little about me:
 - 🛠️ My toolkit: Python · SQL · Java · JavaScript · React · Node.js · MySQL 
 - ✈️ When I’m not coding, you’ll find me traveling, working out, or binging a great movie 🎬
 
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/rujutatambewagh)
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/rujuta-tambewagh)
