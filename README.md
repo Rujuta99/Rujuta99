@@ -1,6 +1,6 @@
 # Hi there 👋 I’m Rujuta Tambewagh
 
-I’m a recent MS Computer Science grad from UIC who enjoys building practical tech that connects **AI, data, cloud, and real-world problems**.
+I'm a recent MS Computer Science grad from UIC who works across data engineering, machine learning, and backend systems, with a soft spot for problems that need all three.
 
 A little about me:
 
